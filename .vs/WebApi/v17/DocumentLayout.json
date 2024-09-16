@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\falla\\source\\repos\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|c:\\users\\falla\\source\\repos\\webapi\\datos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|solutionrelative:datos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|c:\\users\\falla\\source\\repos\\webapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|c:\\users\\falla\\source\\repos\\webapi\\datos\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|solutionrelative:datos\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|c:\\users\\falla\\source\\repos\\webapi\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|solutionrelative:controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|c:\\users\\falla\\source\\repos\\webapi\\logica\\logicaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|solutionrelative:logica\\logicaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|c:\\users\\falla\\source\\repos\\webapi\\logica\\logicavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B68DA56-B2BD-4CD0-8361-B3E1DD10138E}|WebApi.csproj|solutionrelative:logica\\logicavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogicaVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\falla\\source\\repos\\WebApi\\Logica\\LogicaVehiculos.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaVehiculos.cs",
+              "ToolTip": "C:\\Users\\falla\\source\\repos\\WebApi\\Logica\\LogicaVehiculos.cs",
+              "RelativeToolTip": "Logica\\LogicaVehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:41:28.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\falla\\source\\repos\\WebApi\\Datos\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "Datos\\Vehiculos.cs",
+              "ToolTip": "C:\\Users\\falla\\source\\repos\\WebApi\\Datos\\Vehiculos.cs",
+              "RelativeToolTip": "Datos\\Vehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:40:55.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\falla\\source\\repos\\WebApi\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\falla\\source\\repos\\WebApi\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:14:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\falla\\source\\repos\\WebApi\\Datos\\Clientes.cs",
+              "RelativeDocumentMoniker": "Datos\\Clientes.cs",
+              "ToolTip": "C:\\Users\\falla\\source\\repos\\WebApi\\Datos\\Clientes.cs",
+              "RelativeToolTip": "Datos\\Clientes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:07:37.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\falla\\source\\repos\\WebApi\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\falla\\source\\repos\\WebApi\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Controllers\\VehiculosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:42:04.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogicaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\falla\\source\\repos\\WebApi\\Logica\\LogicaClientes.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaClientes.cs",
+              "ToolTip": "C:\\Users\\falla\\source\\repos\\WebApi\\Logica\\LogicaClientes.cs",
+              "RelativeToolTip": "Logica\\LogicaClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:11:43.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
